@@ -1,7 +1,7 @@
 # Site settings
 title: Xiaoxiong's Blog
 SEOTitle: 小熊的博客 | Xiaoxiong's Blog
-header-img: img/post-bg-desk.jpg
+header-img: img/1.jpg
 email: xiaoxiong_wang@foxmail.com
 description: "水利万物而不争"
 keyword: ""
@@ -62,11 +62,11 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
+  clientID: f7d1ecaca315ec6cc943                            #生成的clientID
+  clientSecret: 0944e8868978ff221e40d912130e7414c631c5b3    #生成的clientSecret
+  repo: xiaoxiongwang.github.io    #仓库名称
+  owner: xiaoxiongwang    #github用户名
+  admin: xiaoxiongwang
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
